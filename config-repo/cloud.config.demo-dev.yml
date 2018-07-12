@@ -1,2 +1,4 @@
-host=1.1.1.2
-description=master-dev-yml
+host:
+  1.1.1.2
+description:
+  master-dev-yml
